@@ -9,8 +9,13 @@ h1{
     background-color: rgb(192, 223, 251);
 }
 video{
-    width: 500px;
-    height: 360px;
+    display: block;
+     margin: 0 auto;
+    border-radius: 5px;
+ 
+
+    width: 200px;
+    height: auto;
     
 }
 img{
